@@ -369,13 +369,16 @@ h6 {
   
 
 
-.about{
+.about-container{
     min-height: 100vh;
-    padding-bottom: 2rem;
+
+    
     display: flex;
     flex-direction: column;
+padding: 2rem 0 ;
 
 }
+
 
 
 
